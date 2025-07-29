@@ -43,14 +43,14 @@ Welcome to my GitHub profile! I'm passionate about coding and building innovativ
 
 Here are some of my favorite projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyushS-03&repo=project-name-1&theme=radical)](https://github.com/AyushS-03/IndieMentor-AI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyushS-03&repo=project-name-2&theme=radical)](http://github.com/AyushS-03/AccuMediq)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyushS-03&repo=IndieMentor-AI&theme=radical)](https://github.com/AyushS-03/IndieMentor-AI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyushS-03&repo=AccuMediq&theme=radical)](https://github.com/AyushS-03/AccuMediq)
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsingh2009ddm@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://your-portfolio.com)
 
 ## 💡 Random Dev Quote
