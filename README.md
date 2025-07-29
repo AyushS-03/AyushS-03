@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm passionate about coding and building innovativ
 - 🌱 I'm currently learning new technologies and expanding my skillset
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: ayushsingh2009ddm@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [Add something interesting about yourself]
+- ⚡ Fun fact: Despite being deep into AI, full-stack dev, and system-level projects like Android Development, I once started learning Three.js with zero knowledge—and got it working in just one session.
 
 ## 🛠️ Technologies & Tools
 
@@ -43,8 +43,8 @@ Welcome to my GitHub profile! I'm passionate about coding and building innovativ
 
 Here are some of my favorite projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyushS-03&repo=project-name-1&theme=radical)](https://github.com/AyushS-03/project-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyushS-03&repo=project-name-2&theme=radical)](https://github.com/AyushS-03/project-name-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyushS-03&repo=project-name-1&theme=radical)](https://github.com/AyushS-03/IndieMentor-AI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyushS-03&repo=project-name-2&theme=radical)](http://github.com/AyushS-03/AccuMediq)
 
 ## 📫 Connect with Me
 
